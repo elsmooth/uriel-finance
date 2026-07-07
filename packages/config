@@ -1,0 +1,7 @@
+packages/config/
+
+├── src/
+│   └── index.ts
+│
+├── package.json
+└── tsconfig.json
