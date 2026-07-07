@@ -1,0 +1,23 @@
+uriel-finance/
+├── apps/
+│   ├── web
+│   ├── admin
+│   └── gateway
+├── services/
+│   ├── auth-service
+│   ├── ledger-service
+│   ├── payment-service
+│   ├── document-service
+│   ├── notification-service
+│   ├── audit-service
+│   └── fraud-service
+├── packages/
+│   ├── encryption
+│   ├── config
+│   ├── database
+│   ├── logging
+│   └── shared
+├── infrastructure/
+├── docs/
+├── .github/workflows/
+└── README.md
