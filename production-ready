@@ -1,0 +1,27 @@
+uriel-finance/
+├── apps/
+│   ├── web/                 # Next.js customer portal
+│   ├── admin/               # Admin dashboard
+│   └── api/                 # Node.js API
+├── services/
+│   ├── auth-service/
+│   ├── ledger-service/
+│   ├── payment-service/
+│   ├── document-service/
+│   ├── notification-service/
+│   └── audit-service/
+├── packages/
+│   ├── encryption/
+│   ├── shared/
+│   └── ui/
+├── infrastructure/
+│   ├── terraform/
+│   ├── kubernetes/
+│   ├── helm/
+│   └── docker/
+├── docs/
+├── .github/
+│   └── workflows/
+├── docker-compose.yml
+├── README.md
+└── LICENSE
