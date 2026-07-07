@@ -1,0 +1,16 @@
+Language: TypeScript
+Runtime: Node.js 22 LTS
+Package Manager: pnpm
+Monorepo: Turborepo
+Frontend: Next.js
+API: Express
+Database: PostgreSQL
+ORM: Prisma or Sequelize
+Cache: Redis
+Messaging: Apache Kafka
+Authentication: OAuth2 / OIDC with JWT
+Containerization: Docker
+Orchestration: Kubernetes
+Infrastructure: Terraform
+CI/CD: GitHub Actions
+Observability: OpenTelemetry, Prometheus, Grafana
